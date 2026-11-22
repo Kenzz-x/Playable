@@ -3,6 +3,10 @@
     {
       "title": "Nusa City",
       "dir": "NusaCityGameLib"
+    },
+    {
+      "title": "Benchmark Test",
+      "dir": "BenchmarkTestGameLib"
     }
   ]
 }
