@@ -6,4 +6,4 @@ you can explore game, import game from your storage file, and play a game!.
 - `screen record` & `screen capture` from built in.
 # where i download it?
 ✅️ download last updated version:
-_https://github.com/Kenzz-x/Playable/blob/main/engine/Playable-v2-0.apk_
+_https://github.com/Kenzz-x/Playable/raw/refs/heads/main/engine/Playable-v2-0.apk_
