@@ -14,7 +14,7 @@
     ["2.3","nusa-city-2.3.zip",7],
     ["3.0","nusa-city-3.0.zip",8],
     ["4.0 ( Beta patch1 )","nusa-city-beta4.0-patch1.zip",9],
-    ["4.0 ( Beta patch2 )","nusa-city-beta4.0-patch2.zip",10]
+    ["4.0 ( Beta patch2 )","nusa-city-beta4.0-patch2.zip",10,true]
   ],
   "last-version": 10
 }
