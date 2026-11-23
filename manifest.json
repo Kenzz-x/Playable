@@ -11,6 +11,10 @@
     {
       "title": "Jasa Kubur",
       "dir": "JasaKuburGameLib"
+    },
+    {
+      "title": "Alone V",
+      "dir": "AloneVGameLib"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "icon": "icon.png",
+  "thumbnails": [],
+  "description": "monster here.",
+  "compatible": { "android": true, "computer": false },
+  "dir-version": "version",
+  "version": [
+    ["1.0","1.zip",1]
+  ],
+  "last-version": 1
+}
